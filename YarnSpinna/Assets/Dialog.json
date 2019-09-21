@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Hello, how's it going today?\n\n[[It's going swell!|swell ]]\n[[Actually, that's a complicated question...|complicated ]] ",
+		"position": {
+			"x": 748,
+			"y": 151
+		},
+		"colorID": 0
+	},
+	{
+		"title": "swell",
+		"tags": "",
+		"body": "Oh lovely! So glad to hear you're alright...after everything that happened...",
+		"position": {
+			"x": 1004,
+			"y": 525
+		},
+		"colorID": 0
+	},
+	{
+		"title": "complicated",
+		"tags": "",
+		"body": "Well, I'm sorry to hear that. It do be like that sometimes.",
+		"position": {
+			"x": 481,
+			"y": 517
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Grandma",
+		"tags": "",
+		"body": "Hello deary, Let me tell you about the days of my youth...",
+		"position": {
+			"x": 214,
+			"y": 302
+		},
+		"colorID": 0
+	}
+]
